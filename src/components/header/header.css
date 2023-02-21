@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap");
+
+#header_area {
+  position: absolute;
+  top: 0;
+  text-align: center;
+  background-image: url("../../img/background_header.png");
+  background-repeat: no-repeat;
+  height: 23vw;
+  width: 100%;
+}
+
+h1 {
+  margin-top: 8vw;
+  font-family: "Alex Brush", cursive;
+  font-size: 3vw;
+  color: #5a0000;
+}
+
+#under_header {
+  color: white;
+  margin-top: 12vw;
+  font-size: 1vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
